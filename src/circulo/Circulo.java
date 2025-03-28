@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Ejemplo: círculos.
  *
  * @author fperalta
- * @version 21-02-2025
+ * @version 21/02/2025
  */
 
 /**
