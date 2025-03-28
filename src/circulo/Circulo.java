@@ -12,6 +12,12 @@ import java.util.ArrayList;
  * @author fperalta
  * @version 21-02-2025
  */
+
+/**
+ * 
+ * @author carsasgar
+ * @version 28/03/2025
+ */
 public class Circulo {
 
     /**
