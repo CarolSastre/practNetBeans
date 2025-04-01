@@ -75,5 +75,9 @@ public class Circulo {
         centroX = centroX + despX;
         centroY = centroY + despY;
     }
+    
+    public String toString(){
+        return "Centro X: "+this.centroX+"\nCentro Y: "+this.centroY+"\nRadio: "+this.radio;
+    }
 }
 
